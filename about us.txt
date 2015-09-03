@@ -18,12 +18,16 @@ Woher stammen unsere Daten?
 Unsere Daten sind frei im Internet verfügbar, doch es braucht ziemlich viel IT-Know-how, um sie auslesen zu können. Wir nutzen die Anlagestammdaten, die die überregionalen Netzbetreiber auf Netztransparenz.de einmal jährlich veröffentlichen, um, wie es in einer Pressemitteilung heißt, “… 
 
 
-Unsere Daten stammen aus mehreren Quellen: 
+Unsere Daten sind frei im Internet verfügbar, doch es braucht ziemlich viel IT-Know-how, um sie auslesen zu können. Wir nutzen die Anlagestammdaten, die die überregionalen Netzbetreiber (ÜNB) auf Netztransparenz.de einmal jährlich veröffentlichen. Laut Pressemitteilung  veröffentlichen die ÜNB auf der Internetseite "gemeinsam Informationen entsprechend den gesetzlichen und regulatorischen Vorgaben sowie weitere allgemeine Informationen zum deutschen Übertragungsnetz.” Heißt: Ein unglaublich großer Datenfundus aus erster Hand. Genauer geht es nicht. Diese Daten haben wir mit XXX, und XXX kombiniert. Anhand der Anlagenschlüssel einer jeden Photovoltaik-Anlage konnten wir so Informationen aus verschiedenen Datensätzen miteinander verknüpfen. 
+
+
 
 
 Unser(e) Förder(er)
 
-Im Rahmen des Innovation Medialabs des Vereins Vocer…. 
+Im Rahmen des Innovation Medialabs fördert uns Vocer - Verein für Medien- und Journalismuskritik e.V.
+
+
 
 
 
